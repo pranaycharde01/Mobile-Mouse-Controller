@@ -7,7 +7,9 @@ A Wireless Mobile Mouse Controller that allows users to control their computer c
 The Mobile Mouse Controller is designed to provide a simple and efficient way to control a desktop or laptop remotely. By connecting both devices over the same network, users can perform mouse operations such as moving the cursor, clicking, dragging, and scrolling directly from their mobile phone.
 Such systems commonly use wireless communication (like Wi-Fi) to send input data from the phone to the computer, enabling real-time cursor control.
 
-🚀 Features
+
+🚀 Features:-
+
 
 📱 Use your mobile as a wireless touchpad
 
@@ -23,7 +25,9 @@ Such systems commonly use wireless communication (like Wi-Fi) to send input data
 
 🔗 Real-time communication between mobile and PC
 
-🛠️ Tech Stack
+
+🛠️ Tech Stack:-
+
 
 Frontend (Mobile UI): HTML, CSS, JavaScript (or your tech used)
 
@@ -33,7 +37,9 @@ Communication: WebSockets / HTTP
 
 Platform: Cross-platform (Mobile + Desktop)
 
-⚙️ How It Works
+
+⚙️ How It Works:-
+
 
 Start the server on your computer
 
@@ -43,7 +49,9 @@ Open the provided URL on your mobile browser
 
 Use your phone screen as a touchpad to control the cursor
 
-📂 Project Structure
+
+📂 Project Structure:-
+
 
 Mobile-Mouse-Controller/
 
@@ -61,7 +69,9 @@ Mobile-Mouse-Controller/
 
 │── README.md
 
-▶️ Installation & Setup
+
+▶️ Installation & Setup:-
+
 
 1️⃣ Clone the Repository
 
@@ -84,7 +94,9 @@ Open browser on your phone
 Enter:
 http://YOUR_PC_IP:3000
 
-📸 Use Cases
+
+📸 Use Cases:-
+
 
 🎥 Control PC while watching movies
 
@@ -104,7 +116,8 @@ http://YOUR_PC_IP:3000
 
 📲 Dedicated mobile app
 
-👤 Author
+
+👤 Author:-
 
 Pranay Charde
 
