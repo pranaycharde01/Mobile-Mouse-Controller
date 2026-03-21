@@ -1,0 +1,16 @@
+{
+  "name": "mobile-mouse",
+  "version": "1.0.0",
+  "description": "Control Windows laptop mouse from mobile browser",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["mouse", "remote", "mobile", "control"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.6.1"
+  }
+}
