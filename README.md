@@ -106,7 +106,9 @@ http://YOUR_PC_IP:3000
 
 🎮 Basic remote interaction
 
-🔮 Future Improvements
+
+🔮 Future Improvements:-
+
 
 📡 Motion-based cursor control (gyroscope)
 
